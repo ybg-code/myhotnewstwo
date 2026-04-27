@@ -230,7 +230,7 @@
 [AI 相关]
 /(?<![a-zA-Z])ai(?![a-zA-Z])/
 人工智能
-\bseedance\b|\bgpt5.5\b|\bgemini\b|\bgrok\b|\bdeepseek\b|\bopenai\b|\bclaude\b|\bagent\b|\bimage2\b|\bGPT\b|\bGLM\b => AI相关资讯
+\bseedance\b|\bgpt5.5\b|\bgemini\b|\bgrok\b|\bdeepseek\b|\bopenai\b|\bclaude\b|\bagent\b|\bimage2\b|\bGPT\b|\bGLM\b|\bopenclaw\b => AI相关资讯
 
 
 /自动驾驶|无人驾驶|智驾/ => 自动驾驶
